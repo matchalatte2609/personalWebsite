@@ -681,13 +681,15 @@ h2 {
 
 /* Publications and achievements sections */
 .publications ul, 
-.achievements ul {
+.achievements ul,
+.projects ul {
   padding-left: 1rem;
   margin-top: 0; /* Removed margin */
 }
 
 .publications li, 
-.achievements li {
+.achievements li,
+.projects li {
   margin-bottom: 1rem;  /* Increase space between papers */
 }
 
